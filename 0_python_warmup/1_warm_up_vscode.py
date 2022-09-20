@@ -77,7 +77,7 @@ print(a)
 # Hint: follow the pattern.
 a = 1
 b = 2
-c.= 3
+c = 3
 
 # Hint: Check the tooltip.
 def notUsed()
@@ -125,6 +125,8 @@ catchMeIfYouCan3 = 'You did not catch me!'
 # a. Position yourself after the closing curly bracket of the following
 # if statement (it is the second parenthesis). Does the opening curly 
 # bracket get highlighted?
+# this is a new comment
+
 
 a = 1
 b = 2
